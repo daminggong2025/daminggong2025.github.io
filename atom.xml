@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://blog.snfan.cn</id>
+    <title>天马行空</title>
+    <updated>2025-11-21T01:16:51.350Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://blog.snfan.cn"/>
+    <link rel="self" href="https://blog.snfan.cn/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://blog.snfan.cn/images/avatar.png</logo>
+    <icon>https://blog.snfan.cn/favicon.ico</icon>
+    <rights>All rights reserved 2025, 天马行空</rights>
+    <entry>
+        <title type="html"><![CDATA[ggggg]]></title>
+        <id>https://blog.snfan.cn/post/ggggg/</id>
+        <link href="https://blog.snfan.cn/post/ggggg/">
+        </link>
+        <updated>2025-11-21T01:01:53.000Z</updated>
+    </entry>
+</feed>
