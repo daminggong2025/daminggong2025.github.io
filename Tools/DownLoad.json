@@ -1,0 +1,21 @@
+[
+	{"File":"curl-8.17.0.tar.gz","Url":"https://curl.se/download/curl-8.17.0.tar.gz"},
+	{"File":"pcre-8.45.tar.gz","Url":"https://ftp.exim.org/pub/pcre/pcre-8.45.tar.gz"},
+	{"File":"nginx-1.28.0.tar.gz","Url":"https://nginx.org/download/nginx-1.28.0.tar.gz"},
+	{"File":"ffmpeg-8.0.1.tar.gz","Url":"https://ffmpeg.org/releases/ffmpeg-8.0.1.tar.gz"},
+	{"File":"php-8.4.14.tar.gz","Url":"https://www.php.net/distributions/php-8.4.14.tar.gz"},
+	{"File":"libuv-v1.51.0.tar.gz","Url":"https://dist.libuv.org/dist/v1.51.0/libuv-v1.51.0.tar.gz"},
+	{"File":"libiconv-1.18.tar.gz","Url":"https://ftp.gnu.org/pub/gnu/libiconv/libiconv-1.18.tar.gz"},
+	{"File":"git-2.51.2.tar.gz","Url":"https://www.kernel.org/pub/software/scm/git/git-2.51.2.tar.gz"},	
+	{"File":"zlib-1.3.1.tar.gz","Url":"https://github.com/madler/zlib/archive/refs/tags/v1.3.1.tar.gz"},
+	{"File":"ncurses-6.5.tar.gz","Url":"https://invisible-island.net/archives/ncurses/ncurses-6.5.tar.gz"},
+	{"File":"fmt-11.1.4.zip","Url":"https://github.com/fmtlib/fmt/releases/download/11.1.4/fmt-11.1.4.zip"},
+	{"File":"cJSON-1.7.19.tar.gz","Url":"https://github.com/DaveGamble/cJSON/archive/refs/tags/v1.7.19.tar.gz"},
+	{"File":"mariadb-12.0.2.tar.gz","Url":"https://archive.mariadb.org/mariadb-12.0.2/source/mariadb-12.0.2.tar.gz"},
+	{"File":"openssl-3.5.4.tar.gz","Url":"https://github.com/openssl/openssl/archive/refs/tags/openssl-3.5.4.tar.gz"},
+	{"File":"tinyxml2-10.0.0.tar.gz","Url":"https://github.com/leethomason/tinyxml2/archive/refs/tags/11.0.0.tar.gz"},	
+	{"File":"pcre2-10.45.zip","Url":"https://github.com/PCRE2Project/pcre2/releases/download/pcre2-10.45/pcre2-10.45.zip"},
+	{"File":"libsodium-1.0.20.tar.gz","Url":"https://github.com/jedisct1/libsodium/releases/download/1.0.20-RELEASE/libsodium-1.0.20.tar.gz"},
+	{"File":"nginx-http-flv-module-1.2.12.tar.gz","Url":"https://github.com/winshining/nginx-http-flv-module/archive/refs/tags/v1.2.12.tar.gz"}
+]
+

@@ -1,0 +1,11 @@
+pages:
+  image: almalinux:latest
+  stage: deploy
+  script:
+    - chmod +x Tools/DownLoad
+    - Tools/DownLoad
+  artifacts:
+    paths:
+      - public
+  rules:
+    - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
