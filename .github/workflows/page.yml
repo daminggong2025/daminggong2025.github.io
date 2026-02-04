@@ -23,8 +23,8 @@ jobs:
       - name: Build with Self
         run: |
           tree
-          chmod 0755 Tools/DownLoad
-          Tools/DownLoad
+          chmod 0755 Tools/Deploy
+          Tools/Deploy
           tree
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
