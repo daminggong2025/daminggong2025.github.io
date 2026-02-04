@@ -1,4 +1,4 @@
-name: Deploy Jekyll with GitHub Pages dependencies preinstalled
+name: Deploy Tools Pages
 
 on:
   push:
@@ -22,14 +22,12 @@ jobs:
         uses: actions/configure-pages@v5
       - name: Build with Self
         run: |
-          tree
           chmod 0755 Tools/Deploy
           Tools/Deploy
-          tree
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: 'public'
+          path: public
   deploy:
     environment:
       name: github-pages
