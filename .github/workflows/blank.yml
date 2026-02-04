@@ -31,7 +31,9 @@ jobs:
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Build with Self
-        run: tree
+        run: |
+          tree
+          chmod 0755 Tools/DownLoad
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
 
