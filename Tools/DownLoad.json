@@ -19,10 +19,9 @@
 	{"File":"tinyxml2-10.0.0.tar.gz","Url":"https://github.com/leethomason/tinyxml2/archive/refs/tags/11.0.0.tar.gz"},
 	{"File":"freetype-2.14.1.tar.gz","Url":"https://download.savannah.gnu.org/releases/freetype/freetype-2.14.1.tar.gz"},
 	{"File":"pcre2-10.45.zip","Url":"https://github.com/PCRE2Project/pcre2/releases/download/pcre2-10.45/pcre2-10.45.zip"},
+	{"File":"libserialport-0.1.2.tar.gz","Url":"https://distfiles.alpinelinux.org/distfiles/edge/libserialport-0.1.2.tar.gz"},
 	{"File":"pcre2-10.47.tar.gz","Url":"https://github.com/PCRE2Project/pcre2/releases/download/pcre2-10.47/pcre2-10.47.tar.gz"},
 	{"File":"libsodium-1.0.20.tar.gz","Url":"https://github.com/jedisct1/libsodium/releases/download/1.0.20-RELEASE/libsodium-1.0.20.tar.gz"},
-	{"File":"nginx-http-flv-module-1.2.12.tar.gz","Url":"https://github.com/winshining/nginx-http-flv-module/archive/refs/tags/v1.2.12.tar.gz"},
-	{"File":"libserialport-0.1.2.tar.gz","Url":"https://github.com/sigrokproject/libserialport/releases/download/libserialport-0.1.2/libserialport-0.1.2.tar.gz"}	
-	
+	{"File":"nginx-http-flv-module-1.2.12.tar.gz","Url":"https://github.com/winshining/nginx-http-flv-module/archive/refs/tags/v1.2.12.tar.gz"}	
 ]
 
