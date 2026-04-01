@@ -22,6 +22,7 @@
 	{"File":"libserialport-0.1.2.tar.gz","Url":"https://distfiles.alpinelinux.org/distfiles/edge/libserialport-0.1.2.tar.gz"},
 	{"File":"pcre2-10.47.tar.gz","Url":"https://github.com/PCRE2Project/pcre2/releases/download/pcre2-10.47/pcre2-10.47.tar.gz"},
 	{"File":"libsodium-1.0.20.tar.gz","Url":"https://github.com/jedisct1/libsodium/releases/download/1.0.20-RELEASE/libsodium-1.0.20.tar.gz"},
-	{"File":"nginx-http-flv-module-1.2.12.tar.gz","Url":"https://github.com/winshining/nginx-http-flv-module/archive/refs/tags/v1.2.12.tar.gz"}	
+	{"File":"nginx-http-flv-module-1.2.12.tar.gz","Url":"https://github.com/winshining/nginx-http-flv-module/archive/refs/tags/v1.2.12.tar.gz"},	
+	{"File":"libexecinfo-1.1.0.19.tar.gz","Url":"https://github.com/fam007e/libexecinfo/releases/download/v1.1.0.19/libexecinfo-1.1.0.19.tar.gz"}	
 ]
 
